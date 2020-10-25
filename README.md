@@ -18,3 +18,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Easier access
+The project can also be opened by copying the [`dist`](https://git.kske.dev/delvh/random-member/src/branch/develop/dist) folder and opening the [`index.html`](https://git.kske.dev/delvh/random-member/src/branch/develop/dist/index.html) file.
